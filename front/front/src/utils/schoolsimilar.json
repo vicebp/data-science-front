@@ -1,0 +1,18 @@
+{
+    "schools": [
+        {
+            "rbd": 123,
+            "name": "School A",
+            "street": "street A",
+            "similarity" : 0.74
+        },
+        {
+            "rbd": 1234,
+            "name": "School B",
+            "street": "street B",
+            "similarity" : 0.89
+        }
+    ]
+}
+
+

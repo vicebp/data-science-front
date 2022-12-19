@@ -1,0 +1,16 @@
+{
+    "niveles":[{"id":-1,"name":"Prekínder"},
+    {"id":0,"name":"Kínder"},
+    {"id":1,"name":"1ro Básico"},
+    {"id":2,"name":"2do Básico"},
+    {"id":3,"name":"3ro Básico"},
+    {"id":4,"name":"4to Básico"},
+    {"id":5,"name":"5to Básico"},
+    {"id":6,"name":"6to Básico"},
+    {"id":7,"name":"7mo Básico"},
+    {"id":8,"name":"8vo Básico"},
+    {"id":9,"name":"1ro medio"},
+    {"id":10,"name":"2do medio"},
+    {"id":11,"name":"3ro medio"},
+    {"id":12,"name":"4to medio"}]
+}
